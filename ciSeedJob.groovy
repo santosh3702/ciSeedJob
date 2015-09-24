@@ -14,7 +14,7 @@ import java.text.SimpleDateFormat
  * 2. Call Configuration Management Database via JDBC and read additional information
  * 3. Iterate over all projects and get further project details via GitLab REST API
  * 4. Create all necessary jobs via Jenkins Job DSL. Typical jobs are: Build, Deploy, Acceptance Test-Jobs
- * 5. Create customer views
+ * 5. Create custom views
  */
 
 // GitLab settings
