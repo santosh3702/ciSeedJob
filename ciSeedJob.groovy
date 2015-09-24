@@ -30,7 +30,7 @@ javacMap = ['6': '1.6', '7': '1.7', '8': '1.8', '9': '1.9']
 
 // Default build tool versions
 def antVersion = "Ant 1.9.6"
-def mavenVersion = "Maven 3.3.0"
+def mavenVersion = "Maven 3.3.3"
 
 // valid company department id's
 departments = ["BIZ1","BIZ2","BIZ3","DEV1","DEV2","DEV3","OPS1","OPS2"]
